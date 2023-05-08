@@ -1,2 +1,2 @@
 # test4
-this repository for get badge
+this repository for get badge.
